@@ -14,7 +14,7 @@ public interface RegionMapper
 {
     /**
      * 查询区域管理
-     * 
+     *
      * @param id 区域管理主键
      * @return 区域管理
      */
